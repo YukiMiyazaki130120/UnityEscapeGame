@@ -20,7 +20,7 @@ Unityで脱出ゲームを作成<br>
 <br>
 [これから追加したい機能]<br>
 ・サウンド機能の追加(素材はここが良いかも →「https://soundeffect-lab.info/」)<br>
-  a.ゲーム中にずっと流れるBGMを流す(これとか良い雰囲気 →「https://dova-s.jp/bgm/play17203.html」)<br>
+  a.ゲーム中にずっと流れるBGMを流す(これとか良い雰囲気 →「[https://dova-s.jp/bgm/play17203.html](https://www.youtube.com/watch?v=v0lkdYsHQgg&list=PLiHL1bG4u2mTZ2R4Szc8st8L4rkS61fCQ&index=1)」)<br>
   b.ドアの開閉音<br>
   c.本の開閉音<br>
   d.物を見つけた時の気持ちの良いSE(鍵・ヒント・はしごなど)<br>
